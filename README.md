@@ -21,12 +21,15 @@ Note: The installation of dlib might require additional dependencies depending o
 
 
 <b>Usage:</b>
-1 Folder Structure: Place the images of students in the 'student_images' folder. Each image should contain only one face, and the filename should be the name of the student (e.g., 'john.jpg').
-
-2 CSV File: Create an empty 'attendance.csv' file in the same directory as the script. The attendance data will be appended to this file.
-3 Run the Script: Execute the script in a Python environment.
-4 Face Recognition: The script captures video from the default camera (usually webcam). When a recognized student is detected, their name is displayed on the screen, and attendance is marked in the CSV file.
-5 Exit: Press 'q' to exit the video window and stop the script.
+<ul>
+  <li>Folder Structure: Place the images of students in the 'student_images' folder. Each image should contain only one face, and the filename should be the name of the student (e.g., 'john.jpg').
+</li>
+  <li>CSV File: Create an empty 'attendance.csv' file in the same directory as the script. The attendance data will be appended to this file.
+ </li>
+  <li>Run the Script: Execute the script in a Python environment. </li>
+  <li> Face Recognition: The script captures video from the default camera (usually webcam). When a recognized student is detected, their name is displayed on the screen, and attendance is marked in the CSV file.</li>
+  <li>Exit: Press 'q' to exit the video window and stop the script.</li>
+</ul>
 
 
 <b>Additional Notes:</b>
